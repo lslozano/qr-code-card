@@ -16,6 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+<img width="1438" alt="Screenshot 2025-05-26 at 2 50 08 p m" src="https://github.com/user-attachments/assets/acc116fe-651f-4bc0-aac8-50cff6f802a3" />
+
 ### Links
 
 - Solution URL: [Solution Repository](https://github.com/lslozano/qr-code-card)
